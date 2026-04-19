@@ -1,8 +1,6 @@
 import { motion } from 'framer-motion'
 import { Card } from '../components/ui/Card.jsx'
 import { SectionTitle } from '../components/ui/SectionTitle.jsx'
-import { timeline } from '../data/team.js'
-
 export function About() {
   return (
     <div className="space-y-20">
