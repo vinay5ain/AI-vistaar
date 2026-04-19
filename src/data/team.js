@@ -1,9 +1,9 @@
 import khushiImg from '../assets/khushi.jpeg';
-import khushiGuptaImg from '../assets/Khushi gupta.jpeg';
-import akalpayaImg from '../assets/Akalpaya.jpeg';
-import vinaySainImg from '../assets/Vinaysain.png';
-import shwetaImg from '../assets/Shweta.jpeg';
-import manasviImg from '../assets/Manasvi.jpeg';
+import khushiGuptaImg from '../assets/khushigupta.jpeg';
+import akalpayaImg from '../assets/akalpaya.jpeg';
+import vinaySainImg from '../assets/vinaysain.png';
+import shwetaImg from '../assets/shweta.jpeg';
+import manasviImg from '../assets/manasvi.jpeg';
 export const leadershipTeam = [
   {
     id: 'khushi',
