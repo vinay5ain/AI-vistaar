@@ -6,7 +6,7 @@ import shwetaImg from '../assets/shweta.jpeg';
 import manasviImg from '../assets/manasvi.jpeg';
 export const leadershipTeam = [
   {
-    id: 'khushi',
+    id: 'khushi-singhal',
     name: 'Khushi Singhal',
     role: 'Founder & Community Lead',
     bio: 'Built by a learner, for learners—Khushi stewards programs, partnerships, and the welcoming culture of AI VISTAAR.',
@@ -20,7 +20,7 @@ export const leadershipTeam = [
     image: khushiGuptaImg,
   },
   {
-    id: 'akalpay',
+    id: 'akalpaya',
     name: 'Akalpaya',
     role: 'AI Research Lead',
     bio: 'Specializes in AI research and contributes to educational content and workshops.',
@@ -40,32 +40,11 @@ export const leadershipTeam = [
     bio: 'Fosters engagement and supports community growth through events and partnerships.',
     image: shwetaImg,
   },
-   {
-    id: 'khushi',
-    name: 'Khushi Singhal',
-    role: 'Founder & Community Lead',
-    bio: 'Built by a learner, for learners—Khushi stewards programs, partnerships, and the welcoming culture of AI VISTAAR.',
+  {
+    id: 'manasvi',
+    name: 'Manasvi',
+    role: 'Community Contributor',
+    bio: 'Supports creative initiatives and helps manage community engagement activities.',
     image: manasviImg,
-  }
-]
-
-export const timeline = [
-  {
-    year: '2025',
-    title: 'Spark in a study group',
-    detail:
-      'A handful of learners began sharing notes, prompts, and project ideas in weekly calls.',
-  },
-  {
-    year: '2026',
-    title: 'AI VISTAAR launches',
-    detail:
-      'The nonprofit community formalizes with public events, a forum rhythm, and mentor pairings.',
-  },
-  {
-    year: 'Today',
-    title: 'Growing together',
-    detail:
-      'Learners ages 12–30 collaborate across time zones—still community-led, still beginner-friendly.',
   },
 ]
